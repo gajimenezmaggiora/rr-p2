@@ -1,0 +1,16 @@
+---
+title: "Health and Economic Effects of Severe Weather Events in the U.S. between 1950 and 2011"
+output: html_document
+---
+
+## Synopsis
+
+## Data Processing
+From the National Climatic Data Center of the National Oceanic and Atmospheric Administration website, we obtained the data on [storm events][id] in the Unites States between 1950 and 2011.
+
+
+## Results
+
+
+<!-- References -->
+[id]: http://www.ncdc.noaa.gov/stormevents/
